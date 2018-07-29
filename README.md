@@ -1,3 +1,11 @@
+<!-- badges -->
+[![Build Status](https://travis-ci.org/clintonpuge/rest-shop.png?branch=master)](https://travis-ci.org/clintonpuge/rest-shop)
+<a href="https://david-dm.org/clintonpuge/rest-shop">
+  <img src="https://david-dm.org/clintonpuge/rest-shop.svg" alt="Dependency Status" />
+</a>
+<a href="https://david-dm.org/clintonpuge/rest-shop">
+  <img src="https://david-dm.org/clintonpuge/rest-shop/dev-status.svg" alt="devDependency Status" />
+</a>
 # markdown
 <!-- headings -->
 # h1
